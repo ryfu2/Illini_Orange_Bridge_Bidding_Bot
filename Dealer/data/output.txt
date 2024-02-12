@@ -1,0 +1,42 @@
+Spades: AK4
+Hearts: KQT7
+Diamonds: 32
+Clubs: AJT9
+HCP: 17
+Shape: 3 4 2 4
+
+Spades: AQ
+Hearts: KQJ54
+Diamonds: KQJ4
+Clubs: 94
+HCP: 18
+Shape: 2 5 4 2
+
+Spades: Q652
+Hearts: KQT
+Diamonds: A6
+Clubs: AQ82
+HCP: 17
+Shape: 4 3 2 4
+
+Spades: AQJT
+Hearts: 6
+Diamonds: AKT865
+Clubs: JT
+HCP: 15
+Shape: 4 1 6 2
+
+Spades: AK2
+Hearts: AQ82
+Diamonds: J85
+Clubs: Q64
+HCP: 16
+Shape: 3 4 3 3
+
+Spades: AK2
+Hearts: AQ82
+Diamonds: J85
+Clubs: Q64
+HCP: 16
+Shape: 3 4 3 3
+

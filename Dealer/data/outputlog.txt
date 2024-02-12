@@ -1,0 +1,28 @@
+Spades: AKJ753
+Hearts: T7
+Diamonds: T2
+Clubs: T76
+HCP: 8
+Shape: 6 2 2 3
+
+Spades: K62
+Hearts: J4
+Diamonds: JT987
+Clubs: 953
+HCP: 5
+Shape: 3 2 5 3
+
+Spades: AJ9432
+Hearts: QJT43
+Diamonds: K
+Clubs: 9
+HCP: 11
+Shape: 6 5 1 1
+
+Spades: 86
+Hearts: JT7
+Diamonds: T9732
+Clubs: AJ8
+HCP: 6
+Shape: 2 3 5 3
+
